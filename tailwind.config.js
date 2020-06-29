@@ -1,5 +1,5 @@
 module.exports = {
-  purge: ['./pages/**/*.vue', './layouts/**/*.vue', './components/**/*.vue'],
+  purge: ['./src/**/*.html', './src/**/*.vue'],
   theme: {
     fontFamily: {
       karla: ['Karla', 'sans-serif']
